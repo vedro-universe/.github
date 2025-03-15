@@ -1,6 +1,8 @@
 # Bug Reporting Guide
 
-Thank you for taking the time to report a bug! Well-documented bug reports help us address issues faster, ensuring Vedro continues to improve.
+This guide helps you effectively report bugs, ensuring they can be quickly identified and resolved. Clear and detailed bug reports help maintainers swiftly address issues, contributing to the ongoing improvement and stability of Vedro.
+
+Follow these steps to report a bug:
 
 ## 1. Identify the Correct Repository
 
@@ -13,51 +15,19 @@ Thank you for taking the time to report a bug! Well-documented bug reports help 
 
 ## 2. Search Existing Issues
 
-Before creating a new issue, look through the repository’s «Issues» tab to see if your bug has already been reported. If you find an existing issue:
-
-- Add a comment with any extra details or logs you’ve discovered.
-- React to the issue (e.g., using a thumbs-up) to show that you’re also experiencing it.
+Before creating a new issue, check the repository’s «Issues» tab to see if the bug has already been reported. If you find a matching issue, you can add any additional details or a reaction (e.g., a thumbs-up 👍) to indicate you’re experiencing the same problem.
 
 ## 3. Create a New Issue
 
-If you don’t see your bug listed, open a New Issue. Please include:
-
-1. **Descriptive Title**  
-   - Clearly summarize the bug, avoid titles like «Bug in Vedro» or «Issue with Plugin».
-
-2. **Environment Details**  
-   - **OS**: Windows, macOS, or Linux distribution  
-   - **Python Version**: e.g., Python 3.10  
-   - **Vedro/Plugin Version**: The specific version(s) you’re using  
-   - Any other relevant dependencies or libraries
-
-3. **Steps to Reproduce**  
-   - Provide a minimal code snippet or test scenario that reliably triggers the bug.  
-   - List each step clearly.
-
-4. **Expected Behavior**  
-   - Explain what you thought should happen after following the steps.
-
-5. **Actual Behavior**  
-   - Describe what actually happens, including any error messages or incorrect outputs.
-
-6. **Screenshots or Logs (Optional)**  
-   - If relevant, attach screenshots of console logs or error traces.  
-   - Include any traceback or CLI output that might help pinpoint the issue.
-
-## 4. Provide Additional Context
-
-If the bug is related to a specific scenario (e.g., a certain OS version, a particular CI system, or an unusual project setup), describe the context. This information can help maintainers replicate your environment and confirm the root cause.
-
-## 5. Follow Up and Collaborate
-
-Once you’ve created an issue:
-
-- Check back regularly: A maintainer or community member may ask for more information or clarification.
-- Test fixes: If a pull request is opened to address the bug, you can try it out and confirm if it resolves the issue.
-
-> **Tip**: Enable notifications on GitHub so you don’t miss any follow-up questions or comments.
+If you don’t see your bug listed, open a New Issue in the appropriate repository. Please include the following:
+- **Descriptive Title**: Clearly summarize the issue.  
+- **Environment**: Mention your OS, Python version, Vedro version, and any relevant plugins or dependencies.  
+- **Steps to Reproduce**: Provide a minimal code snippet or test scenario, listing each step clearly.  
+- **Expected vs Actual Behavior**: Explain what you expected to happen, and what actually occurred.  
+- **Logs and Screenshots (Optional)**: Attach any relevant error messages, traceback logs, or screenshots.
 
 ---
 
-**Thank You!** Your feedback and bug reports help us make Vedro better for everyone. If you have any questions or want to discuss your findings, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or [email us](mailto:mail@vedro.io).
+**That’s it!** After submitting your issue, our team and community contributors will review it and might request further details. Your contributions help make Vedro more reliable and user-friendly.
+
+If you have any questions or want to discuss your findings, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or [email us](mailto:mail@vedro.io).
