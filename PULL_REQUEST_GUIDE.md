@@ -24,6 +24,8 @@ Most Python repositories for Vedro follow a similar layout:
 - `Makefile`  
   Offers useful commands (e.g., installing dependencies, running tests, linting).
 
+> **Tip**: Understanding this layout helps you find where to add or modify code, and where to place new tests.
+
 ## 3. Set Up Your Environment
 
 Clone your fork locally and navigate to the project directory. Then create and activate a virtual environment. You can do this with:
@@ -56,6 +58,8 @@ Implement your fixes or features in the appropriate files. If you need to add ne
 
 1. Run `make lint test` to ensure your changes pass code checks and tests.  
 2. Commit and push your changes to your fork.
+
+> **Tip**: To run Vedro scenarios locally with your new changes, use `vedro run` or `python -m vedro run`.
 
 ## 6. Open a Pull Request
 
