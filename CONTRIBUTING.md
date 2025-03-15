@@ -26,7 +26,9 @@ Explore the [community plugins page](https://vedro.io/plugins) to discover solut
 
 ### Report Bugs & Suggest Features
 
-If you run into issues or have an idea for a new feature, head over to the [core Vedro framework repository](https://github.com/vedro-universe/vedro). Search open issues first, and if your concern isn’t listed, feel free to create a new one.
+If you run into issues or have an idea for a new feature, head over to the [core Vedro framework repository](https://github.com/vedro-universe/vedro). Search open issues first, and if your concern isn’t listed, feel free to create a new one. For detailed instructions on what to include, see our [Bug Reporting Guide](https://github.com/vedro-universe/.github/blob/main/BUG_REPORTING_GUIDE.md).
+
+When you’re ready to propose a code change, follow our [Pull Request Guide](https://github.com/vedro-universe/.github/blob/main/PULL_REQUEST_GUIDE.md) for a step-by-step walkthrough on forking the repo, creating a branch, and opening a PR.
 
 ## No Contribution Is Too Small
 
