@@ -12,7 +12,7 @@ Help us reach more people by mentioning [#Vedro](https://x.com/hashtag/Vedro?src
 
 ### Write Tutorials & Articles
 
-Whether it’s a brief walkthrough or an in-depth case study, sharing your experience can greatly benefit others. Publish your insights on [Medium](https://medium.com/tag/vedro), [DEV](https://dev.to), or your own blog, and let us know so we can feature your work on our community pages.
+Whether it’s a brief walkthrough or an in-depth case study, sharing your experience can greatly benefit others. Publish your insights on [Medium](https://medium.com/tag/vedro), [DEV](https://dev.to/t/vedro), or your own blog, and let us know so we can feature your work on our community pages.
 
 ### Contribute to Documentation
 
@@ -34,6 +34,7 @@ When you’re ready to propose a code change, follow our [Pull Request Guide](ht
 
 Every effort, big or small, makes Vedro better. Whether you fix a simple typo or develop a brand-new plugin, your contribution is welcome and appreciated. If you’re unsure how best to get involved, reach out:
 
+- **Slack**: [vedro-universe.slack.com](https://vedro-universe.slack.com)
 - **X (Twitter)**: [@vedro_universe](https://x.com/vedro_universe)  
 - **Instagram**: [@vedro_universe](https://www.instagram.com/vedro_universe/)  
 - **Email**: [mail@vedro.io](mailto:mail@vedro.io)
