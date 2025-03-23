@@ -11,7 +11,7 @@ We’re a vibrant community focused on making Python testing simpler, more relia
 ## 🤝 Get Involved
 
 - Check out the [Contributing Guide](https://github.com/vedro-universe/.github/blob/main/CONTRIBUTING.md).
-- Join the [Slack](https://vedro-universe.slack.com) community.
+- Join the [Slack](https://slack.vedro.io) community.
 
 ## 📬 Connect with Us
 

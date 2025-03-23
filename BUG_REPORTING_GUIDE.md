@@ -30,4 +30,4 @@ If you don’t see your bug listed, open a New Issue in the appropriate reposito
 
 **That’s it!** After submitting your issue, our team and community contributors will review it and might request further details. Your contributions help make Vedro more reliable and user-friendly.
 
-If you have any questions or want to discuss your findings, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or [email us](mailto:mail@vedro.io).
+If you have any questions or want to discuss your findings, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or join us on [Slack](https://slack.vedro.io).

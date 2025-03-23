@@ -76,4 +76,4 @@ We strongly encourage linking every pull request to an existing issue. If no cor
 
 **That’s it!** Once your PR is merged, your contribution becomes part of Vedro’s codebase. Thank you for helping us improve and grow the framework, your efforts truly make a difference!
 
-If you have any questions, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or [email us](mailto:mail@vedro.io).
+If you have any questions, please reach out on [X (Twitter)](https://x.com/vedro_universe), [Instagram](https://www.instagram.com/vedro_universe/), or join us on [Slack](https://slack.vedro.io).

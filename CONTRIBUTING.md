@@ -34,7 +34,7 @@ When you’re ready to propose a code change, follow our [Pull Request Guide](ht
 
 Every effort, big or small, makes Vedro better. Whether you fix a simple typo or develop a brand-new plugin, your contribution is welcome and appreciated. If you’re unsure how best to get involved, reach out:
 
-- **Slack**: [vedro-universe.slack.com](https://vedro-universe.slack.com)
+- **Slack**: [vedro-universe.slack.com](https://slack.vedro.io)
 - **X (Twitter)**: [@vedro_universe](https://x.com/vedro_universe)  
 - **Instagram**: [@vedro_universe](https://www.instagram.com/vedro_universe/)  
 - **Email**: [mail@vedro.io](mailto:mail@vedro.io)
